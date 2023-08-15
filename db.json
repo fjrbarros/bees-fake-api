@@ -1,7 +1,11 @@
 {
   "store": [{
     "id": "1",
-    "name": "teste 3",
-    "description": "test description"
+    "name": "store 1",
+    "description": "motocycle store"
+  }, {
+    "id": "2",
+    "name": "store 2",
+    "description": "car store"
   }]
 }
