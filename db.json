@@ -1,5 +1,6 @@
 {
   "store": {
     "name": "teste"
+    "description": "test description"
   }
 }
