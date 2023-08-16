@@ -7,5 +7,9 @@
     "id": "2",
     "name": "store 2",
     "description": "car store"
+  }, {
+    "id": "3",
+    "name": "teste",
+    "description": "toy store"
   }]
 }
